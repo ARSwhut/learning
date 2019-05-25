@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\vs2015test\test01\leetcode_maxsubarray\leetcode_maxsubarray\source.cpp(8): warning C4018: '<': signed/unsigned mismatch
+  leetcode_maxSubArray.vcxproj -> E:\vs2015test\test01\leetcode_maxSubArray\Debug\leetcode_maxSubArray.exe
+  leetcode_maxSubArray.vcxproj -> E:\vs2015test\test01\leetcode_maxSubArray\Debug\leetcode_maxSubArray.pdb (Full PDB)
