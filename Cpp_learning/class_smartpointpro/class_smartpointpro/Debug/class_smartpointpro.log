@@ -1,0 +1,5 @@
+﻿  Source.cpp
+e:\vs2015test\c11\class_smartpointpro\class_smartpointpro\smartpoint.h(18): warning C4150: deletion of pointer to incomplete type 'Object'; no destructor called
+  e:\vs2015test\c11\class_smartpointpro\class_smartpointpro\smartpoint.h(5): note: see declaration of 'Object'
+  class_smartpointpro.vcxproj -> E:\vs2015test\c11\class_smartpointpro\Debug\class_smartpointpro.exe
+  class_smartpointpro.vcxproj -> E:\vs2015test\c11\class_smartpointpro\Debug\class_smartpointpro.pdb (Full PDB)
